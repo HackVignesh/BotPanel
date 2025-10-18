@@ -158,17 +158,4 @@ If you find bugs or want to contribute safer workflows (e.g., HTTPS pull for ima
 
 ---
 
-## License
 
-Choose your preferred license. If unsure, MIT is a good permissive option. Remember that licensing does not remove legal/ethical responsibilities.
-
----
-
-## Notes / TODO (optional)
-
-* Shorten wording or add badges (CI / license / PyPI) if desired.
-* Add an optional `docker-compose` example for quick lab deployment.
-
----
-
-**A final reminder**: This project is for learning and authorized testing only. Unauthorized use is illegal and unethical. The repo owner and contributors are not responsible for misuse.
