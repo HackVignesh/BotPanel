@@ -105,4 +105,3 @@ Open the Telegram bot, press **Set Target** and paste the agent IP when prompted
 
 ---
 
-If you want this trimmed, extended with badges, or converted into a `README.md` with a `docker-compose` example or an MIT license block, tell me and I’ll update it.
